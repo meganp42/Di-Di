@@ -25,7 +25,8 @@ function preload(){
 
 
 function setup() {
-  createCanvas(windowWidth - 200, windowHeight -200);
+  let canvas = createCanvas(windowWidth-200, windowHeight -200);
+  canvas.parent("p5canvas");
   
   //creating sword
    knife=createSprite(40,200,20,20);
