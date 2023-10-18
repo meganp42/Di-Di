@@ -20,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-  background(225, 179, 227); // Set the background color to light gray
+  background("#FFB3E3"); // Set the background color to light gray
 
   // Creates a boolean variable which is true when the mouse is hovering over rectangle
 
