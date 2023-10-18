@@ -110,7 +110,7 @@ function draw() {
   if (score >=15){
     squareSpeed = 0;
     clear();
-    background(51, 196, 255);
+    background(255, 244, 234);
     textAlign(CENTER);
     text("YOU GOT THEM ALL",width/2,height/2);
   }
