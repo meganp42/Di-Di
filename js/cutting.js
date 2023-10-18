@@ -1,3 +1,5 @@
+// Template: cutting fruit game by rabindrakumarraviasm
+
 //Game States
 var PLAY=1;
 var END=0;
